@@ -1,5 +1,5 @@
 _repo: Bacon-is-Shake-Speare--13-Together-with-a-Reprint-of-Bacon-s-Promus-of-Formularies-and-Eleganc__9847
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Bacon, Francis
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '296'
     url: http://www.gutenberg.org/2009/agents/296
     wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Durning-Lawrence, Edwin, Sir
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3172
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Durning-Lawrence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9847#Bacon-is-Shake-Speare--13-Together-with-a-Reprint-of-Bacon-s-Promus-of-Formularies-and-Eleganc_
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
